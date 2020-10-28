@@ -12,7 +12,7 @@ This is sample which we can execute.
   * Download a file and install it to the plugin dir
 
 ```
-$ curl -L -o plugin/graylog-plugin-slack-3.1.0.jar https://github.com/graylog-labs/graylog-plugin-slack/releases/download/3.1.0/graylog-plugin-slack-3.1.0.jar
+$ mkdir plugin && curl -L -o plugin/graylog-plugin-slack-3.1.0.jar https://github.com/graylog-labs/graylog-plugin-slack/releases/download/3.1.0/graylog-plugin-slack-3.1.0.jar
 ```
 
 ```
